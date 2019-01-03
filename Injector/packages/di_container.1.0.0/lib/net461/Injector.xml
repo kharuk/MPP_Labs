@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Injector</name>
+    </assembly>
+    <members>
+        <member name="M:Injector.IInjectorService.Register``2(Injector.TimeToLive)">
+            <summary>
+            Registers pair of types
+            </summary>
+            <typeparam name="TContract">Interface/Base class</typeparam>
+            <typeparam name="TImpl">Implementation class</typeparam>
+        </member>
+        <member name="M:Injector.IInjectorService.Resolve``1">
+            <summary>
+            Returns created object with all dependencies
+            </summary>
+            <typeparam name="T">Type of object</typeparam>
+            <returns>created object with all dependencies</returns>
+        </member>
+        <member name="P:Injector.TypeModel.Instance">
+            <summary>
+            Store singleton object
+            </summary>
+            <remarks>
+            If TimeToLoive is InstancePerDependency, it equals null
+            </remarks>
+        </member>
+        <member name="P:Injector.TypeModel.TimeToLive">
+            <summary>
+            Store the way of getting object
+            </summary>
+        </member>
+        <member name="T:Injector.InjectorService">
+            <summary>
+            This class implements logic of dependency injection container
+            </summary>
+        </member>
+    </members>
+</doc>

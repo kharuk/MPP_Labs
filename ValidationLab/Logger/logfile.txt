@@ -1,0 +1,6 @@
+2018-09-18 18:21:47.9406|WARN|Logger.ValidationLogger|The length of the string should be larger than [8].
+2018-09-18 18:21:48.0217|WARN|Logger.ValidationLogger|The value is requied.
+2018-09-18 18:21:48.0217|WARN|Logger.ValidationLogger|The length of the string should be larger than [8].
+2018-09-18 18:21:48.0307|WARN|Logger.ValidationLogger|The value should be larger than [1] and lower than [99].
+2018-09-18 18:21:48.0307|WARN|Logger.ValidationLogger|The value is requied.
+2018-09-18 18:21:48.0307|WARN|Logger.ValidationLogger|The length of the string should be larger than [8].

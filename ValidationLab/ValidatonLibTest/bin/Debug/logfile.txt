@@ -1,0 +1,13 @@
+2018-09-13 20:19:48.9500|WARN|Logger.Logger|The length of the string should be larger than [8].
+2018-09-13 20:19:49.0642|WARN|Logger.Logger|The value is requied.
+2018-09-13 20:19:49.0642|WARN|Logger.Logger|The length of the string should be larger than [8].
+2018-09-13 20:19:49.0892|WARN|Logger.Logger|The value should be larger than [1] and lower than [99].
+2018-09-13 20:19:49.0892|WARN|Logger.Logger|The value is requied.
+2018-09-13 20:19:49.0892|WARN|Logger.Logger|The length of the string should be larger than [8].
+2018-09-13 20:22:36.3832|WARN|Logger.Logger|The length of the string should be larger than [8].
+2018-09-13 20:22:36.4399|WARN|Logger.Logger|The value is requied.
+2018-09-13 20:22:36.4399|WARN|Logger.Logger|The length of the string should be larger than [8].
+2018-09-13 20:22:36.4639|WARN|Logger.Logger|The value should be larger than [1] and lower than [99].
+2018-09-13 20:22:36.5049|WARN|Logger.Logger|The value is requied.
+2018-09-13 20:22:36.5049|WARN|Logger.Logger|The length of the string should be larger than [8].
+2018-09-13 20:24:12.5751|WARN|Logger.Logger|The value should be larger than [1] and lower than [99].

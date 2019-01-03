@@ -1,0 +1,167 @@
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\REST.exe.config
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\REST.exe
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\REST.pdb
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Microsoft.Owin.dll
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Nancy.dll
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Nancy.Owin.dll
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Owin.dll
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Microsoft.Owin.xml
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Nancy.xml
+C:\Users\Kinoler\Desktop\REST\REST\bin\Debug\Nancy.Owin.xml
+C:\Users\Kinoler\Desktop\REST\REST\obj\Debug\REST.csprojAssemblyReference.cache
+C:\Users\Kinoler\Desktop\REST\REST\obj\Debug\REST.csproj.CoreCompileInputs.cache
+C:\Users\Kinoler\Desktop\REST\REST\obj\Debug\REST.csproj.CopyComplete
+C:\Users\Kinoler\Desktop\REST\REST\obj\Debug\REST.exe
+C:\Users\Kinoler\Desktop\REST\REST\obj\Debug\REST.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.csprojAssemblyReference.cache
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.Resource.resources
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.csproj.GenerateResource.cache
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.csproj.CoreCompileInputs.cache
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.exe
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\REST.exe.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\REST.exe
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\REST.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\DAL.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Microsoft.Owin.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Model.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Nancy.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Nancy.Owin.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Observer.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Owin.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\DB.exe
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\EntityFramework.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\System.Data.SQLite.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\DAL.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\DAL.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Model.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Model.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Observer.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Microsoft.Owin.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Nancy.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Nancy.Owin.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\DB.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\DB.exe.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\EntityFramework.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\System.Data.SQLite.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\System.Data.SQLite.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\obj\Debug\REST.csproj.CopyComplete
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Observer.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\ValidationLib.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Logger.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\NLog.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\ValidationLib.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Logger.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Logger.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\NLog.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Injector.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Injector.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\REST\bin\Debug\Injector.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\REST.exe.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\REST.exe
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\REST.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\DAL.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\DB.exe
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\EntityFramework.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Injector.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Logger.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Microsoft.Owin.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Model.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Nancy.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Nancy.Owin.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Observer.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Owin.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\ValidationLib.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\NLog.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Injector.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Injector.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\ValidationLib.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\DAL.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\DAL.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\DB.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\DB.exe.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Model.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Model.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Observer.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Observer.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\EntityFramework.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Microsoft.Owin.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Nancy.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\Nancy.Owin.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\bin\Debug\NLog.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.csprojAssemblyReference.cache
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.Resource.resources
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.csproj.GenerateResource.cache
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.csproj.CoreCompileInputs.cache
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.csproj.CopyComplete
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.exe
+C:\Users\Kinoler\Desktop\REST\Super\REST\REST\obj\Debug\REST.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\REST.exe.config
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\REST.exe
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\REST.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\DAL.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\DB.exe
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\EntityFramework.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\EntityFramework.SqlServer.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Injector.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Microsoft.Owin.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Microsoft.Owin.Hosting.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Model.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Nancy.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Nancy.Owin.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Observer.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Owin.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\System.Data.SQLite.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\System.Data.SQLite.EF6.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\System.Data.SQLite.Linq.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\ValidationLib.dll
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Injector.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Injector.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\ValidationLib.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\DAL.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\DAL.dll.config
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\DB.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\DB.exe.config
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Model.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Model.dll.config
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Observer.pdb
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Observer.dll.config
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\EntityFramework.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\EntityFramework.SqlServer.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Microsoft.Owin.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Microsoft.Owin.Hosting.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Nancy.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\Nancy.Owin.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\System.Data.SQLite.xml
+e:\5 сем\СПП\готовая лаба\REST\REST\bin\Debug\System.Data.SQLite.dll.config
+e:\5 сем\СПП\готовая лаба\REST\REST\obj\Debug\REST.csprojResolveAssemblyReference.cache
+e:\5 сем\СПП\готовая лаба\REST\REST\obj\Debug\REST.Resource.resources
+e:\5 сем\СПП\готовая лаба\REST\REST\obj\Debug\REST.csproj.GenerateResource.Cache
+e:\5 сем\СПП\готовая лаба\REST\REST\obj\Debug\REST.csproj.CoreCompileInputs.cache
+e:\5 сем\СПП\готовая лаба\REST\REST\obj\Debug\REST.exe
+e:\5 сем\СПП\готовая лаба\REST\REST\obj\Debug\REST.pdb

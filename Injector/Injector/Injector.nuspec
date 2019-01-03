@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>di_container</id>
+    <version>1.0.0</version>
+    <title>Injector: Simple Dependency Injection Container</title>
+    <authors>Anastasia Kornienko</authors>
+    <owners>Anastasia Kornienko</owners>
+    <licenseUrl>https://none.com</licenseUrl>
+    <projectUrl>https://none.com</projectUrl>
+    <iconUrl>https://none.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Injector - simple IoC container, that implents register and resolve</description>
+    <releaseNotes>There is only one version of this package.</releaseNotes>
+    <copyright>Anastasia Kornienko Copyright 2018</copyright>
+    <tags>dependency injection container ioc di</tags>
+  </metadata>
+</package>

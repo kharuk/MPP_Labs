@@ -1,0 +1,30 @@
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\ValidationLib.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\ValidationLib.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\obj\Debug\ValidationLib.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\obj\Debug\ValidationLib.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\Logger.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\NLog.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\Logger.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\NLog.xml
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\bin\Debug\Logger.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csprojAssemblyReference.cache
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csproj.CoreCompileInputs.cache
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csproj.CopyComplete
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\ValidationLib.dll
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\ValidationLib.pdb
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\Logger.dll
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\NLog.dll
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\Logger.pdb
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\Logger.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\bin\Debug\NLog.xml
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csprojAssemblyReference.cache
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csproj.CopyComplete
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\obj\Debug\ValidationLib.dll
+C:\Users\Kinoler\Desktop\REST\Super\ValidationLab\ValidationLib\obj\Debug\ValidationLib.pdb
+e:\5 сем\СПП\готовая лаба\ValidationLab\ValidationLib\bin\Debug\ValidationLib.dll
+e:\5 сем\СПП\готовая лаба\ValidationLab\ValidationLib\bin\Debug\ValidationLib.pdb
+e:\5 сем\СПП\готовая лаба\ValidationLab\ValidationLib\bin\Debug\Logger.dll
+e:\5 сем\СПП\готовая лаба\ValidationLab\ValidationLib\obj\Debug\ValidationLib.csproj.CoreCompileInputs.cache
+e:\5 сем\СПП\готовая лаба\ValidationLab\ValidationLib\obj\Debug\ValidationLib.dll
+e:\5 сем\СПП\готовая лаба\ValidationLab\ValidationLib\obj\Debug\ValidationLib.pdb

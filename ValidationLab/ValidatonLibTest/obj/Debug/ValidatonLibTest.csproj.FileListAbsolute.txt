@@ -1,0 +1,17 @@
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\ValidatonLibTest.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\ValidatonLibTest.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\ValidationLib.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\ValidationLib.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\obj\Debug\ValidatonLibTest.csprojResolveAssemblyReference.cache
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\obj\Debug\ValidatonLibTest.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\obj\Debug\ValidatonLibTest.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\NUnit3.TestAdapter.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\nunit.engine.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\nunit.engine.api.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\Mono.Cecil.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\nunit.framework.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\nunit.framework.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\ValidatonLibTest\bin\Debug\nunit.framework.xml

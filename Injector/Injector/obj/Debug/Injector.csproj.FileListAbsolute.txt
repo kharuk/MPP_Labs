@@ -1,0 +1,37 @@
+C:\Users\y700\Documents\C\c#\Injector\Injector\bin\Debug\Injector.dll
+C:\Users\y700\Documents\C\c#\Injector\Injector\bin\Debug\Injector.pdb
+C:\Users\y700\Documents\C\c#\Injector\Injector\obj\Debug\Injector.csprojResolveAssemblyReference.cache
+C:\Users\y700\Documents\C\c#\Injector\Injector\obj\Debug\Injector.dll
+C:\Users\y700\Documents\C\c#\Injector\Injector\obj\Debug\Injector.pdb
+e:\5 сем\СПП 3 лаба не мои\Injector\Injector\bin\Debug\Injector.dll
+e:\5 сем\СПП 3 лаба не мои\Injector\Injector\bin\Debug\Injector.pdb
+e:\5 сем\СПП 3 лаба не мои\Injector\Injector\obj\Debug\Injector.csprojResolveAssemblyReference.cache
+e:\5 сем\СПП 3 лаба не мои\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+e:\5 сем\СПП 3 лаба не мои\Injector\Injector\obj\Debug\Injector.dll
+e:\5 сем\СПП 3 лаба не мои\Injector\Injector\obj\Debug\Injector.pdb
+E:\Chrome_downloads\Injector\Injector\bin\Debug\Injector.dll
+E:\Chrome_downloads\Injector\Injector\bin\Debug\Injector.pdb
+E:\Chrome_downloads\Injector\Injector\obj\Debug\Injector.csprojAssemblyReference.cache
+E:\Chrome_downloads\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+E:\Chrome_downloads\Injector\Injector\obj\Debug\Injector.dll
+E:\Chrome_downloads\Injector\Injector\obj\Debug\Injector.pdb
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\bin\Debug\Injector.dll
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\bin\Debug\Injector.pdb
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\obj\Debug\Injector.csprojAssemblyReference.cache
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\obj\Debug\Injector.dll
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\obj\Debug\Injector.pdb
+E:\Учёба\3й курс\5й семестр\СПП\Injector\Injector\bin\Debug\Injector.xml
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\bin\Debug\Injector.xml
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\bin\Debug\Injector.dll
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\bin\Debug\Injector.pdb
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\obj\Debug\Injector.csprojAssemblyReference.cache
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\obj\Debug\Injector.dll
+C:\Users\Kinoler\Desktop\REST\Super\Injector\Injector\obj\Debug\Injector.pdb
+e:\5 сем\СПП\готовая лаба\Injector\Injector\bin\Debug\Injector.xml
+e:\5 сем\СПП\готовая лаба\Injector\Injector\bin\Debug\Injector.dll
+e:\5 сем\СПП\готовая лаба\Injector\Injector\bin\Debug\Injector.pdb
+e:\5 сем\СПП\готовая лаба\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+e:\5 сем\СПП\готовая лаба\Injector\Injector\obj\Debug\Injector.dll
+e:\5 сем\СПП\готовая лаба\Injector\Injector\obj\Debug\Injector.pdb

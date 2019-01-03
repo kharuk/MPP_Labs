@@ -1,0 +1,8 @@
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\bin\Debug\Logger.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\bin\Debug\Logger.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\bin\Debug\NLog.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\bin\Debug\NLog.xml
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\obj\Debug\Logger.dll
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\obj\Debug\Logger.pdb
+E:\Учёба\3й курс\5й семестр\СПП\ValidationLab\Logger\bin\Debug\Logger.dll.config

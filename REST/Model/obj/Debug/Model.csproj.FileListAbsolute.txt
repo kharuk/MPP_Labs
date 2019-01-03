@@ -1,0 +1,67 @@
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\Model.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\Model.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\Model.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\EntityFramework.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\System.Data.SQLite.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\EntityFramework.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\System.Data.SQLite.xml
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\System.Data.SQLite.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\obj\Debug\Model.csproj.CopyComplete
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\obj\Debug\Model.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\obj\Debug\Model.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\ValidationLib.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\Logger.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\NLog.dll
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\ValidationLib.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\Logger.pdb
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\Logger.dll.config
+E:\Учёба\3й курс\5й семестр\СПП\REST\Model\bin\Debug\NLog.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\Model.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\Model.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\Model.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\EntityFramework.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\ValidationLib.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\Logger.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\NLog.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\ValidationLib.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\EntityFramework.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\Logger.pdb
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\Logger.dll.config
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\bin\Debug\NLog.xml
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\obj\Debug\Model.dll
+C:\Users\Kinoler\Desktop\REST\Super\REST\Model\obj\Debug\Model.pdb
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\Model.dll.config
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\Model.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\Model.pdb
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\EntityFramework.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\EntityFramework.SqlServer.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\System.Data.SQLite.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\System.Data.SQLite.EF6.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\System.Data.SQLite.Linq.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\ValidationLib.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\Logger.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\ValidationLib.pdb
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\EntityFramework.xml
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\EntityFramework.SqlServer.xml
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\System.Data.SQLite.xml
+e:\5 сем\СПП\готовая лаба\REST\Model\bin\Debug\System.Data.SQLite.dll.config
+e:\5 сем\СПП\готовая лаба\REST\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+e:\5 сем\СПП\готовая лаба\REST\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+e:\5 сем\СПП\готовая лаба\REST\Model\obj\Debug\Model.dll
+e:\5 сем\СПП\готовая лаба\REST\Model\obj\Debug\Model.pdb
